@@ -1,0 +1,9 @@
+[package]
+
+name = "packager"
+version = "0.0.1"
+authors = [ "Derek Anderson dereanderson@paypal.com", "Gabe Csapo gcsapo@paypal.com" ]
+
+[dependencies]
+hyper = "*"
+curl = "*"
